@@ -51,15 +51,11 @@ Le serveur centralise la gestion de l'inventaire en interagissant avec une base 
 
 ### 4. Exemple d'utilisation :
 1. Démarrer le serveur en premier :
-   ```bash
+   
    java server.InventoryServer
-   ```
+   
 2. Démarrer un ou plusieurs clients :
-   ```bash
+   
    java client.InventoryClient
-   ```
+   
 3. Naviguer dans le menu pour effectuer des opérations sur l'inventaire.
-
----
-
-Pour toute question ou problème, n'hésitez pas à consulter le code source ou à me contacter !
